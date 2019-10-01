@@ -56,6 +56,7 @@ body {
 }
 input{
 	border-radius: 2px;
+	margin-left: 20px;
 }
 .all {
 	justify-content: center;
@@ -117,4 +118,7 @@ h1 {
 	width: 96px;
 	margin: 10px;
 	border: 0px solid;
-  }
+	}
+	.m-t{
+		margin-top: 30px;
+	}
