@@ -72,6 +72,12 @@ h1 {
 form {
 	padding: 10px 0;
 }
+.Age{
+    margin-left: 15px;
+}
+.Age input{
+	width: 179px;
+}
 .age form {
 	padding: 10px 131px 10px 40px;
 }
@@ -81,8 +87,6 @@ form {
 }
 */
 .lefttab {
-	position: absolute;
-    left: 500px;
 	display: inline-block;
 	text-align: left;
 	width: 48%;
