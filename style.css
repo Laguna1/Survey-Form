@@ -54,6 +54,9 @@ body {
   font-family: 'Raleway', Helvetica, sans-serif;
   min-width: 320px;
 }
+input{
+	border-radius: 2px;
+}
 .all {
 	justify-content: center;
 	margin-left: 25%;
@@ -69,26 +72,18 @@ h1 {
 .description {
 	padding: 45px 0;
 }
-/* form {
-	padding: 10px 0;
-}
+
 .Age{
-    margin-left: 15px;
+	margin-left: 15px;
 }
+
 .Age input{
 	width: 179px;
 }
-.Age form {
-	padding: 10px 131px 10px 40px;
-}
-*/
-.name, .mail, .Age {
-	
-		height: 20px;
-		width: 280px;
+
+.name, .mail {
 		padding: 5px;
 		margin: 10px;
-		border-radius: 2px;
 }
 .lefttab {
 	display: inline-block;
