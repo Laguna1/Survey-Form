@@ -54,3 +54,54 @@ body {
   font-family: 'Raleway', Helvetica, sans-serif;
   min-width: 320px;
 }
+.all {
+	justify-content: center;
+	margin-left: 25%;
+	background-color: #f2f7f6;
+	width: 50%;
+	
+}
+h1 {
+    padding: 45px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.description {
+	padding: 45px 0;
+}
+form {
+	padding: 10px 0;
+}
+.age form {
+	padding: 10px 131px 10px 40px;
+}
+/*
+.aa {
+	display: inline-block;
+}
+*/
+.lefttab {
+	position: absolute;
+    left: 500px;
+	display: inline-block;
+	text-align: left;
+	width: 48%;
+	vertical-align: middle;
+}
+.righttab {
+	display: inline-block;
+	text-align: left;
+	width: 48%;
+	vertical-align: middle;
+  }
+.submit {
+	background-color: #2b21bd;
+	border-radius: 7px;
+	position: relative;
+	color: white;
+	font-size: 20px;
+	height: 40px;
+	width: 96px;
+	margin: 10px;
+	border: 0px solid;
+  }
