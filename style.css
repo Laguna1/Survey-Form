@@ -74,7 +74,7 @@ h1 {
 }
 
 .Age{
-	margin-left: 15px;
+	margin-left: 162px;
 }
 
 .Age input{
@@ -84,6 +84,7 @@ h1 {
 .name, .mail {
 		padding: 5px;
 		margin: 10px;
+		margin-left: 155px;
 }
 .lefttab {
 	display: inline-block;
