@@ -148,14 +148,8 @@ h1 {
 		}
 		textarea {
 			height: 45px;
-            width: 94px;
+            width: 83px;
             resize: vertical;
 		}
 	}
-	@media screen and (max-width: 463px) {
-		textarea {
-	height: 45px;
-    width: 83px;
-	resize: vertical;
-		}
-	}
+	
