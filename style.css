@@ -122,17 +122,20 @@ h1 {
 	.m-t{
 		margin-top: 30px;
 	}
-	@media screen and (max-width: 768px) {
+	.texarea{
+		height:75px; 
+		width: 280px; 
+		resize:vertical;
+	}
+	@media(max-width: 768px) {
 		ul {
 			padding: 14px;
 		}
 		textarea {
-		    height: 75px;
             width: 172px;
-            resize: vertical;
 		}
 	}
-	@media screen and (max-width: 463px) {
+	@media(max-width: 576px) {
 		body {
 			font-size: 15px;
 		}
@@ -146,10 +149,9 @@ h1 {
 			width: 84px;
 			font-size: 11px;
 		}
-		textarea {
+		.textarea {
 			height: 45px;
-            width: 83px;
-            resize: vertical;
+      width: 83px;
 		}
 	}
 	
